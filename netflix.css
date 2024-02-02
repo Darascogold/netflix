@@ -1,0 +1,14 @@
+.background{
+    background-image: url(img3/NG-en-20240101-popsignuptwoweeks-perspective_alpha_website_small.jpg), linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5));
+    height: 1000px;
+    width: 100%;
+    justify-content: center;
+    background-blend-mode: overlay;
+
+}
+
+
+.pico:hover{
+background-color: blue;
+color: blue;
+}
